@@ -67,6 +67,7 @@ Para utilizar o modelo LLaMA 3 via Groq, você precisa de uma chave de API váli
 
 ```python
 GROQ_API_KEY = "sua_chave_groq_aqui"
+```
 
 👨‍💻 Autor
 Desenvolvido por [Jabes Christian].
